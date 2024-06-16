@@ -1,0 +1,14 @@
+numpy
+einops
+addict
+future
+opencv-python
+Pillow
+pyyaml
+requests
+scikit-image
+scipy
+tqdm
+yacs
+lmdb
+pyyaml
