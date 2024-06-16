@@ -6,10 +6,11 @@ The official pytorch implementation of the paper **[Single Stage Adaptive Multi-
 
 
 ## Installation
->git clone https://github.com/anas-zafar/SSAMAN
->cd SSAMAN
->pip install -r requirements.txt
-
+```
+git clone https://github.com/anas-zafar/SSAMAN
+cd SSAMAN
+pip install -r requirements.txt
+```
 ### Citations
 ```
 @article{zafar2024single,
